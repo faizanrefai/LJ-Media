@@ -1,0 +1,1279 @@
+TI am Live
+v7
+r0
+t355843755.244720
+cCheck dependencies
+cProcessInfoPlistFile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Info.plist" I_am_Live-Info.plist
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib"
+cCpResource "build/Debug-iphonesimulator/I am Live.app/dropdown.png" images/dropdown.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/back.png" images/back.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/back_b.png" images/back_b.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/up_green.png" images/up_green.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/up_blue.png" images/up_blue.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/post.png" images/post.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/locateme.png" images/locateme.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/findme.png" images/findme.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/down_g.png" images/down_g.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/down_b.png" images/down_b.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/camera.png" images/camera.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/Maps.png" images/Maps.png
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib"
+cCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib"
+cCpResource "build/Debug-iphonesimulator/I am Live.app/twitter.png" images/twitter.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/myspace.png" images/myspace.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/linkedin.png" images/linkedin.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/google.png" images/google.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/foursquare.png" images/foursquare.png
+cCpResource "build/Debug-iphonesimulator/I am Live.app/facebook.png" images/facebook.png
+cProcessPCH /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch.gch I_am_Live_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/main.o" "/Users/openxcelltech123/Desktop/I am Live/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveAppDelegate.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveViewController.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/SplashView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/optionView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/PromoView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/UserProfileView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/LiveView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/user_cell.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/tablelist.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/FAQwebview.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingDetilView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/ranking_cell.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/Userinfo_map.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/DisplayMap.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live" normal i386
+cGenerateDSYMFile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app.dSYM" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live"
+cTouch "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004CC1294D000000000000027E
+t1287727437
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib
+c000000004F8522470000000000006C1E
+t1334125127
+s27678
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.h
+c000000004C3C48120000000000000200
+t1279019026
+s512
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m
+c000000004C3C480E000000000000012E
+t1279019022
+s302
+i"DisplayMap.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.h
+c000000004F8413EB000000000000017C
+t1334055915
+s380
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m
+c000000004F84145C0000000000000565
+t1334056028
+s1381
+i"FAQwebview.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib
+c000000004F83F2740000000000004F1F
+t1334047348
+s20255
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.h
+c000000004F82B50800000000000001F2
+t1333966088
+s498
+i<UIKit/UIKit.h>
+i"SplashView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m
+c000000004F82C4250000000000000C0D
+t1333969957
+s3085
+i"I_am_LiveAppDelegate.h"
+i"SplashView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.h
+c000000004F82C64D00000000000002B3
+t1333970509
+s691
+i<UIKit/UIKit.h>
+i"optionView.h"
+i"RankingView.h"
+i"UserProfileView.h"
+i"PromoView.h"
+i"LiveView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m
+c000000004F85232A0000000000000C6B
+t1334125354
+s3179
+i"I_am_LiveViewController.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.h
+c000000004F8586B800000000000003C1
+t1334150840
+s961
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"Userinfo_map.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m
+c000000004F85875400000000000018C7
+t1334150996
+s6343
+i"LiveView.h"
+i"DisplayMap.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib
+c000000004F858017000000000000E378
+t1334149143
+s58232
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.h
+c000000004F82B7EC00000000000000D8
+t1333966828
+s216
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m
+c000000004F852CF70000000000000590
+t1334127863
+s1424
+i"PromoView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib
+c000000004F82BFB80000000000004230
+t1333968824
+s16944
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.h
+c000000004F856F2C0000000000000284
+t1334144812
+s644
+i<UIKit/UIKit.h>
+i"ranking_cell.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m
+c000000004F857038000000000000112A
+t1334145080
+s4394
+i"RankingDetilView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib
+c000000004F8577B60000000000009C31
+t1334146998
+s39985
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.h
+c000000004F857C1D000000000000026F
+t1334148125
+s623
+i<UIKit/UIKit.h>
+i"RankingDetilView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m
+c000000004F85802100000000000010E4
+t1334149153
+s4324
+i"RankingView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib
+c000000004F857CC60000000000008DB6
+t1334148294
+s36278
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.h
+c000000004F82B39500000000000000DA
+t1333965717
+s218
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m
+c000000004F82B3950000000000000596
+t1333965717
+s1430
+i"SplashView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib
+c000000004F8522180000000000004318
+t1334125080
+s17176
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.h
+c000000004F82C86F0000000000000137
+t1333971055
+s311
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m
+c000000004F83D8210000000000000DB3
+t1334040609
+s3507
+i"UserProfileView.h"
+i"user_cell.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib
+c000000004F852EEA00000000000049C0
+t1334128362
+s18880
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.h
+c000000004F85482500000000000000E1
+t1334134821
+s225
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m
+c000000004F858AD2000000000000045A
+t1334151890
+s1114
+i"Userinfo_map.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib
+c000000004F8582FC0000000000007C40
+t1334149884
+s31808
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.h
+c000000004F83DD7A000000000000015F
+t1334041978
+s351
+i<UIKit/UIKit.h>
+i"FAQwebview.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m
+c000000004F852C1600000000000013C3
+t1334127638
+s5059
+i"optionView.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib
+c000000004F852EDA0000000000004A67
+t1334128346
+s19047
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.h
+c000000004F8558FC00000000000001C2
+t1334139132
+s450
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m
+c000000004F85585F0000000000000138
+t1334138975
+s312
+i"ranking_cell.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib
+c000000004F85588400000000000055E3
+t1334139012
+s21987
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.h
+c000000004F82C9DD00000000000000DD
+t1333971421
+s221
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m
+c000000004F83D8E200000000000010FC
+t1334040802
+s4348
+i"tablelist.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib
+c000000004F82C9DD0000000000001C66
+t1333971421
+s7270
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.h
+c000000004F82DFF70000000000000178
+t1333977079
+s376
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m
+c000000004F85146900000000000001CD
+t1334121577
+s461
+i"user_cell.h"
+
+N/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib
+c000000004F83C7D20000000000004971
+t1334036434
+s18801
+
+N/Users/openxcelltech123/Desktop/I am Live/I_am_LiveViewController.xib
+c000000004F82B2100000000000004354
+t1333965328
+s17236
+
+N/Users/openxcelltech123/Desktop/I am Live/I_am_Live_Prefix.pch
+c000000004F826E4B00000000000000BB
+t1333947979
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib
+c000000004F82B1F8000000000000611C
+t1333965304
+s24860
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app
+t1334150955
+s1258
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app.dSYM
+t1334150955
+s102
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/FAQwebview.nib
+t1334047398
+s1188
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live
+t1334150955
+s87744
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I_am_LiveViewController.nib
+t1334125133
+s2464
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Info.plist
+t1333965333
+s599
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/LiveView.nib
+t1334149154
+s5409
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/MainWindow.nib
+t1333965335
+s1566
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Maps.png
+t1334126373
+s7348
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/PkgInfo
+t1333965333
+s8
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/PromoView.nib
+t1333968850
+s1235
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/RankingDetilView.nib
+t1334147878
+s3406
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/RankingView.nib
+t1334148301
+s3219
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/SplashView.nib
+t1334125133
+s1267
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/UserProfileView.nib
+t1334128367
+s1190
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Userinfo_map.nib
+t1334150575
+s3123
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/back.png
+t1334124322
+s33006
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/back_b.png
+t1334124322
+s34304
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/camera.png
+t1334124323
+s2218
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/down.png
+t2
+s0
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/down_b.png
+t1334124323
+s33992
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/down_g.png
+t1334124322
+s32840
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/dropdown.png
+t1334124322
+s4582
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/facebook.png
+t1334146907
+s1391
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/findme.png
+t1334124322
+s6105
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/foursquare.png
+t1334146907
+s4397
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/google.png
+t1334146907
+s2753
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/linkedin.png
+t1334146907
+s1754
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/locateme.png
+t1334124322
+s6271
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/myspace.png
+t1334146907
+s2152
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/optionView.nib
+t1334128367
+s1192
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/post.png
+t1334124322
+s6494
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/ranking_cell.nib
+t1334139021
+s2403
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/tablelist.nib
+t1334036178
+s979
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/twitter.png
+t1334146907
+s1554
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/up.png
+t2
+s0
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/up_blue.png
+t1334124322
+s33858
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/up_green.png
+t1334124322
+s32844
+
+N/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/user_cell.nib
+t1334036463
+s1777
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/DisplayMap.o
+t1334150576
+s12156
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/FAQwebview.o
+t1334056029
+s45480
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I am Live.LinkFileList
+c000000004F8585AE000000000000088C
+t1334150574
+s2188
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveAppDelegate.o
+t1333970347
+s55116
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveViewController.o
+t1334150843
+s58748
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/LiveView.o
+t1334150955
+s67732
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/PromoView.o
+t1334128133
+s37968
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingDetilView.o
+t1334145082
+s58088
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingView.o
+t1334149155
+s55656
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/SplashView.o
+t1333966145
+s37476
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/UserProfileView.o
+t1334042177
+s46588
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/Userinfo_map.o
+t1334150576
+s38036
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/main.o
+t1333965338
+s6308
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/optionView.o
+t1334127826
+s56728
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/ranking_cell.o
+t1334139132
+s40188
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/tablelist.o
+t1334042177
+s40872
+
+N/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/user_cell.o
+t1334121577
+s39184
+
+N/Users/openxcelltech123/Desktop/I am Live/images/Maps.png
+c000000004E8883820000000000001CB4
+t1317569410
+s7348
+
+N/Users/openxcelltech123/Desktop/I am Live/images/back.png
+c000000004F851B1E00000000000080EE
+t1334123294
+s33006
+
+N/Users/openxcelltech123/Desktop/I am Live/images/back_b.png
+c000000004F851B2F0000000000008600
+t1334123311
+s34304
+
+N/Users/openxcelltech123/Desktop/I am Live/images/camera.png
+c000000004F843D0500000000000008AA
+t1334066437
+s2218
+
+N/Users/openxcelltech123/Desktop/I am Live/images/down.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/openxcelltech123/Desktop/I am Live/images/down_b.png
+c000000004F851A4000000000000084C8
+t1334123072
+s33992
+
+N/Users/openxcelltech123/Desktop/I am Live/images/down_g.png
+c000000004F851A790000000000008048
+t1334123129
+s32840
+
+N/Users/openxcelltech123/Desktop/I am Live/images/dropdown.png
+c000000004ED0B2A800000000000011E6
+t1322300072
+s4582
+
+N/Users/openxcelltech123/Desktop/I am Live/images/facebook.png
+c000000004F85755B000000000000056F
+t1334146395
+s1391
+
+N/Users/openxcelltech123/Desktop/I am Live/images/findme.png
+c000000004F8518DD00000000000017D9
+t1334122717
+s6105
+
+N/Users/openxcelltech123/Desktop/I am Live/images/foursquare.png
+c000000004F8575B4000000000000112D
+t1334146484
+s4397
+
+N/Users/openxcelltech123/Desktop/I am Live/images/google.png
+c000000004F8575990000000000000AC1
+t1334146457
+s2753
+
+N/Users/openxcelltech123/Desktop/I am Live/images/linkedin.png
+c000000004F8575A300000000000006DA
+t1334146467
+s1754
+
+N/Users/openxcelltech123/Desktop/I am Live/images/locateme.png
+c000000004F8518F2000000000000187F
+t1334122738
+s6271
+
+N/Users/openxcelltech123/Desktop/I am Live/images/myspace.png
+c000000004F8575AA0000000000000868
+t1334146474
+s2152
+
+N/Users/openxcelltech123/Desktop/I am Live/images/post.png
+c000000004F8518D5000000000000195E
+t1334122709
+s6494
+
+N/Users/openxcelltech123/Desktop/I am Live/images/twitter.png
+c000000004F85758F0000000000000612
+t1334146447
+s1554
+
+N/Users/openxcelltech123/Desktop/I am Live/images/up.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/openxcelltech123/Desktop/I am Live/images/up_blue.png
+c000000004F851A530000000000008442
+t1334123091
+s33858
+
+N/Users/openxcelltech123/Desktop/I am Live/images/up_green.png
+c000000004F851A67000000000000804C
+t1334123111
+s32844
+
+N/Users/openxcelltech123/Desktop/I am Live/main.m
+c000000004F826E4B000000000000016B
+t1333947979
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch.gch
+t1333965338
+s15453392
+
+NI_am_Live-Info.plist
+c000000004F826E4B000000000000038D
+t1333947979
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355843754#355843754#0(0"0(0#1#0"8624253536#0"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/DisplayMap.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355843376.365784
+e355843376.446989
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/DisplayMap.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m355843376#355843376#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m8627051872#2029"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/DisplayMap.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/DisplayMap.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/FAQwebview.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355748829.106859
+e355748829.231370
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/FAQwebview.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m355748829#355748829#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m8616334752#2029"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/FAQwebview.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveAppDelegate.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355663146.552797
+e355663147.812553
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveAppDelegate.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m355663146#355663147#0(0"0(0#0#72"/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m8623530752#2049"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveAppDelegate.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveAppDelegate.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveViewController.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355843642.189595
+e355843643.651612
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveViewController.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m355843642#355843644#0(0"0(0#0#75"/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m8622628288#2055"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/I_am_LiveViewController.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I_am_LiveViewController.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/LiveView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355843754.947558
+e355843755.153080
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/LiveView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m:256: warning: incomplete implementation of class 'LiveView'
+o/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m:256: warning: method definition for '-oncancel:' not found
+lSLF07#2@68"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m355843754#355843755#0(241"/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m:256: warning: incomplete implementation of class 'LiveView'/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m:256: warning: method definition for '-oncancel:' not found2(22@45"Incomplete implementation of class 'LiveView'355843755#0#121#0(6@60"/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m355843752#256#0#256#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-oncancel:' not found355843755#121#120#0(6@60"/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m355843752#256#0#256#0#35"method definition for '*' not found0(0#0#60"/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m8622020736#2025"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/LiveView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/PromoView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355820933.522126
+e355820933.774803
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/PromoView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m355820933#355820933#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m8618800096#2027"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/PromoView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingDetilView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355837882.652603
+e355837882.850209
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingDetilView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m355837882#355837882#0(0"0(0#0#68"/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m8622374848#2041"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingDetilView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355841954.904290
+e355841955.039533
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m355841954#355841955#0(0"0(0#0#63"/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m8619839040#2031"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/RankingView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/SplashView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355658944.961715
+e355658945.060638
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/SplashView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m355658944#355658945#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m5705889669690254336#2029"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/SplashView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/UserProfileView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734977.384669
+e355734977.578458
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/UserProfileView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m355734977#355734977#0(0"0(0#0#67"/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m8625797568#2039"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/UserProfileView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/Userinfo_map.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355843376.273028
+e355843376.480570
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/Userinfo_map.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m355843376#355843376#0(0"0(0#0#64"/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m8626674624#2033"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/Userinfo_map.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/main.o" "/Users/openxcelltech123/Desktop/I am Live/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355658138.652442
+e355658138.802378
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/main.o
+x/Users/openxcelltech123/Desktop/I am Live/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/openxcelltech123/Desktop/I am Live/main.m355658138#355658138#0(0"0(0#0#48"/Users/openxcelltech123/Desktop/I am Live/main.m8619618016#2009"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/main.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/optionView.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355820626.361896
+e355820626.705402
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/optionView.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m355820626#355820626#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m8614788768#2029"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/optionView.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/ranking_cell.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355831932.699197
+e355831932.766691
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/ranking_cell.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m355831932#355831932#0(0"0(0#0#64"/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m8615743840#2033"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/ranking_cell.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/tablelist.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734977.480003
+e355734977.555037
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/tablelist.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m355734977#355734977#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m8627322656#2027"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/tablelist.o"0#
+
+CCompileC "build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/user_cell.o" "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355814377.759205
+e355814377.815782
+r1
+xCompileC
+xbuild/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/user_cell.o
+x/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m355814377#355814377#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m8612920416#2027"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -include /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch -c "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.m" -o "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/user_cell.o"0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib"
+s355817933.367424
+e355817934.072463
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib
+lSLF07#2@49"CompileXIB Classes/../I_am_LiveViewController.xib355817933#355817934#0(0"0(0#0#80"/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib8615555872#624"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I_am_LiveViewController.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/../I_am_LiveViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib"
+s355740197.591175
+e355740198.183536
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib
+lSLF07#2@33"CompileXIB Classes/FAQwebview.xib355740197#355740198#0(0"0(0#0#64"/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib8612954848#595"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/FAQwebview.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/FAQwebview.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib"
+s355841953.618363
+e355841954.903638
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib
+lSLF07#2@31"CompileXIB Classes/LiveView.xib355841953#355841954#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib8622517664#591"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/LiveView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/LiveView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib"
+s355661650.541508
+e355661650.940925
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib
+lSLF07#2@32"CompileXIB Classes/PromoView.xib355661650#355661650#0(0"0(0#0#63"/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib8599444160#593"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/PromoView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/PromoView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib"
+s355840676.697671
+e355840678.949008
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib
+lSLF07#2@39"CompileXIB Classes/RankingDetilView.xib355840676#355840679#0(0"0(0#0#70"/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib8618458688#607"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/RankingDetilView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingDetilView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib"
+s355841100.426918
+e355841101.654943
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib
+lSLF07#2@34"CompileXIB Classes/RankingView.xib355841100#355841101#0(0"0(0#0#65"/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib8618509184#597"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/RankingView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/RankingView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib"
+s355817933.368133
+e355817933.936178
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib
+lSLF07#2@33"CompileXIB Classes/SplashView.xib355817933#355817933#0(0"0(0#0#64"/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib8613734944#595"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/SplashView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/SplashView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib"
+s355821165.706330
+e355821167.296917
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib
+lSLF07#2@38"CompileXIB Classes/UserProfileView.xib355821165#355821167#0(0"0(0#0#69"/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib8614840544#605"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/UserProfileView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/UserProfileView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib"
+s355843374.642728
+e355843376.043633
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib
+lSLF07#2@35"CompileXIB Classes/Userinfo_map.xib355843374#355843376#0(0"0(0#0#66"/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib8623415200#599"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Userinfo_map.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/Userinfo_map.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib"
+s355821165.705222
+e355821167.227807
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib
+lSLF07#2@33"CompileXIB Classes/optionView.xib355821165#355821167#0(0"0(0#0#64"/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib8616835392#595"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/optionView.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/optionView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib"
+s355831820.555190
+e355831822.055002
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib
+lSLF07#2@35"CompileXIB Classes/ranking_cell.xib355831820#355831822#0(0"0(0#0#66"/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib8614271136#599"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/ranking_cell.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/ranking_cell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib"
+s355728978.499214
+e355728978.846164
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib
+lSLF07#2@32"CompileXIB Classes/tablelist.xib355728978#355728978#0(0"0(0#0#63"/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib8607897312#593"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/tablelist.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/tablelist.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib"
+s355729262.605120
+e355729263.182965
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib
+lSLF07#2@32"CompileXIB Classes/user_cell.xib355729262#355729263#0(0"0(0#0#63"/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib8612115968#593"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/user_cell.nib" "/Users/openxcelltech123/Desktop/I am Live/Classes/user_cell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/I_am_LiveViewController.xib"
+s355658133.276477
+e355658136.118545
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/I_am_LiveViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB I_am_LiveViewController.xib355658133#355658136#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#69"/Users/openxcelltech123/Desktop/I am Live/I_am_LiveViewController.xib8623198624#613"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I_am_LiveViewController.nib" "/Users/openxcelltech123/Desktop/I am Live/I_am_LiveViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib"
+s355658133.238911
+e355658136.118872
+r1
+xCompileXIB
+x/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib355658133#355658136#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#56"/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib8623309664#587"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/MainWindow.nib" "/Users/openxcelltech123/Desktop/I am Live/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/Maps.png" images/Maps.png
+s355819173.067984
+e355819173.124688
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/Maps.png
+ximages/Maps.png
+lSLF07#2@20"Copy images/Maps.png355819173#355819173#0(0"0(0#0#57"/Users/openxcelltech123/Desktop/I am Live/images/Maps.png8603841504#490"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/Maps.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/back.png" images/back.png
+s355817122.755066
+e355817123.008066
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/back.png
+ximages/back.png
+lSLF07#2@20"Copy images/back.png355817122#355817123#0(0"0(0#0#57"/Users/openxcelltech123/Desktop/I am Live/images/back.png8613407136#490"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/back.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/back_b.png" images/back_b.png
+s355817122.755689
+e355817123.010916
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/back_b.png
+ximages/back_b.png
+lSLF07#2@22"Copy images/back_b.png355817122#355817123#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/back_b.png8606076832#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/back_b.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/camera.png" images/camera.png
+s355817122.994196
+e355817123.017615
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/camera.png
+ximages/camera.png
+lSLF07#2@22"Copy images/camera.png355817123#355817123#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/camera.png8615286880#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/camera.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/down.png" images/down.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/down_b.png" images/down_b.png
+s355817122.992876
+e355817123.042861
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/down_b.png
+ximages/down_b.png
+lSLF07#2@22"Copy images/down_b.png355817122#355817123#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/down_b.png8615422432#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/down_b.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/down_g.png" images/down_g.png
+s355817122.785925
+e355817123.011406
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/down_g.png
+ximages/down_g.png
+lSLF07#2@22"Copy images/down_g.png355817122#355817123#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/down_g.png8613627168#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/down_g.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/dropdown.png" images/dropdown.png
+s355817122.754353
+e355817122.992664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/dropdown.png
+ximages/dropdown.png
+lSLF07#2@24"Copy images/dropdown.png355817122#355817123#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/images/dropdown.png8603687680#494"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/dropdown.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/facebook.png" images/facebook.png
+s355839707.186442
+e355839707.227575
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/facebook.png
+ximages/facebook.png
+lSLF07#2@24"Copy images/facebook.png355839707#355839707#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/images/facebook.png8618744640#494"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/facebook.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/findme.png" images/findme.png
+s355817122.783787
+e355817123.011303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/findme.png
+ximages/findme.png
+lSLF07#2@22"Copy images/findme.png355817122#355817123#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/findme.png8614670496#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/findme.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/foursquare.png" images/foursquare.png
+s355839707.184705
+e355839707.229442
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/foursquare.png
+ximages/foursquare.png
+lSLF07#2@26"Copy images/foursquare.png355839707#355839707#0(0"0(0#0#63"/Users/openxcelltech123/Desktop/I am Live/images/foursquare.png8619050528#496"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/foursquare.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/google.png" images/google.png
+s355839707.182857
+e355839707.229323
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/google.png
+ximages/google.png
+lSLF07#2@22"Copy images/google.png355839707#355839707#0(0"0(0#0#59"/Users/openxcelltech123/Desktop/I am Live/images/google.png8619363552#492"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/google.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/linkedin.png" images/linkedin.png
+s355839707.181062
+e355839707.229187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/linkedin.png
+ximages/linkedin.png
+lSLF07#2@24"Copy images/linkedin.png355839707#355839707#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/images/linkedin.png8622364544#494"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/linkedin.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/locateme.png" images/locateme.png
+s355817122.758168
+e355817122.992797
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/locateme.png
+ximages/locateme.png
+lSLF07#2@24"Copy images/locateme.png355817122#355817123#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/images/locateme.png8598694016#494"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/locateme.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/myspace.png" images/myspace.png
+s355839707.173450
+e355839707.227214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/myspace.png
+ximages/myspace.png
+lSLF07#2@23"Copy images/myspace.png355839707#355839707#0(0"0(0#0#60"/Users/openxcelltech123/Desktop/I am Live/images/myspace.png8600864416#493"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/myspace.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/post.png" images/post.png
+s355817122.757620
+e355817123.011199
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/post.png
+ximages/post.png
+lSLF07#2@20"Copy images/post.png355817122#355817123#0(0"0(0#0#57"/Users/openxcelltech123/Desktop/I am Live/images/post.png8605720320#490"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/post.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/twitter.png" images/twitter.png
+s355839707.172330
+e355839707.227436
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/twitter.png
+ximages/twitter.png
+lSLF07#2@23"Copy images/twitter.png355839707#355839707#0(0"0(0#0#60"/Users/openxcelltech123/Desktop/I am Live/images/twitter.png8616703904#493"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/twitter.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/up.png" images/up.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/up_blue.png" images/up_blue.png
+s355817122.757038
+e355817123.011092
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/up_blue.png
+ximages/up_blue.png
+lSLF07#2@23"Copy images/up_blue.png355817122#355817123#0(0"0(0#0#60"/Users/openxcelltech123/Desktop/I am Live/images/up_blue.png8613934560#493"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/up_blue.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CCpResource "build/Debug-iphonesimulator/I am Live.app/up_green.png" images/up_green.png
+s355817122.756331
+e355817123.016115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/I am Live.app/up_green.png
+ximages/up_green.png
+lSLF07#2@24"Copy images/up_green.png355817122#355817123#0(0"0(0#0#61"/Users/openxcelltech123/Desktop/I am Live/images/up_green.png8615631712#494"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/openxcelltech123/Desktop/I am Live/images/up_green.png" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+
+CGenerateDSYMFile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app.dSYM" "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live"
+s355843755.188773
+e355843755.241292
+r1
+xGenerateDSYMFile
+x/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app.dSYM
+x/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live
+lSLF07#2@119"GenerateDSYMFile "build/Debug-iphonesimulator/I am Live.app.dSYM" "build/Debug-iphonesimulator/I am Live.app/I am Live"355843755#355843755#0(0"0(0#0#93"/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live8621476384#404"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live" -o "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app.dSYM"0#
+
+CLd "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live" normal i386
+s355843755.153178
+e355843755.188671
+r1
+xLd
+x/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live
+xnormal
+xi386
+lSLF07#2@98"Link /Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live355843755#355843755#0(0"0(0#0#0"8613812608#977"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" -filelist "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/Objects-normal/i386/I am Live.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/I am Live"0#
+
+CProcessInfoPlistFile "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Info.plist" I_am_Live-Info.plist
+s355658133.218762
+e355658133.238815
+r1
+xProcessInfoPlistFile
+x/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Info.plist
+xI_am_Live-Info.plist
+lSLF07#2@28"Process I_am_Live-Info.plist355658133#355658133#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/I_am_Live-Info.plist8623542656#500"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility I_am_Live-Info.plist -genpkginfo "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app/Info.plist"0#
+
+CProcessPCH /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch.gch I_am_Live_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355658136.119061
+e355658138.652307
+r1
+xProcessPCH
+x/var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch.gch
+xI_am_Live_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile I_am_Live_Prefix.pch355658136#355658138#0(0"0(0#0#62"/Users/openxcelltech123/Desktop/I am Live/I_am_Live_Prefix.pch8613496256#1894"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-generated-files.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-own-target-headers.hmap" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-all-target-headers.hmap" -iquote "/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/I am Live-project-headers.hmap" "-F/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator" "-I/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/include" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources/i386" "-I/Users/openxcelltech123/Desktop/I am Live/build/I am Live.build/Debug-iphonesimulator/I am Live.build/DerivedSources" -c "/Users/openxcelltech123/Desktop/I am Live/I_am_Live_Prefix.pch" -o /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I_am_Live_Prefix-archipdziqytbggxvfdclbukakvt/I_am_Live_Prefix.pch.gch0#
+
+CTouch "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"
+s355843755.241383
+e355843755.244669
+r1
+xTouch
+x/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app
+lSLF07#2@89"Touch /Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app355843755#355843755#0(0"0(0#0#0"8626922688#290"    cd "/Users/openxcelltech123/Desktop/I am Live"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/openxcelltech123/Desktop/I am Live/build/Debug-iphonesimulator/I am Live.app"0#
+

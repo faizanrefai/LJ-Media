@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'I am Live' target in the 'I am Live' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

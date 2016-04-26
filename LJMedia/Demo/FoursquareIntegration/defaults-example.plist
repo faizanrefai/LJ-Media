@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>foursquare.consumer.key</key>
+	<string>T3SLTZCHS3DGKAW31OE23ELQNSIHVMFNDYCQRQWWJX2FTPCZ</string>
+	<key>foursquare.consumer.secret</key>
+	<string>1ZVIOL5Z3QNKDL4YY1YUGZU2CDXI5UA30RRMRFTV0N30USSF</string>
+</dict>
+</plist>
